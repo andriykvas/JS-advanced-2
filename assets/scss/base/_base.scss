@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    font-size: 100%;
+    font-family: Roboto, sans-serif;
+    line-height: 1.4;
+}
+
+body {
+    border: 10px solid white;
+}
+
+a {
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
